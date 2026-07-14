@@ -37,7 +37,7 @@
       <sub><b>RaspBerryPi</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="50" alt="Linux"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" alt="Linux"/><br>
       <sub><b>Linux</b></sub>
     </td>
   </tr>
