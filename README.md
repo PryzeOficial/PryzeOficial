@@ -18,5 +18,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br>
       <sub><b>CSS3</b></sub>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="CSS3"/><br>
+      <sub><b>Arduino</b></sub>
+      
+    </td>
   </tr>
 </table>
