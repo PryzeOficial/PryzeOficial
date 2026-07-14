@@ -19,8 +19,8 @@
       <sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="URL_TO_EV3DEV_LOGO" alt="EV3Dev" width="40" height="40"/><br>
-      <sub><b>Ev3Dev</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="CSS3"/><br>
+      <sub><b>CSS3</b></sub>
     </td>
   </tr>
 </table>
