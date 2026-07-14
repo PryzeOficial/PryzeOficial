@@ -29,8 +29,8 @@
       <sub><b>Arduino</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberry/raspberry-original.svg" width="50" alt="RaspBerry"/><br>
-      <sub><b>RaspBerry</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="RaspBerryPi"/><br>
+      <sub><b>RaspBerryPi</b></sub>
     </td>
   </tr>
 </table>
