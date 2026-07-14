@@ -1,4 +1,6 @@
-## Habilidades
+## 🛠️ Habilidades
+
+### 💻 Linguagens
 
 <table>
   <tr>
@@ -18,18 +20,39 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br>
       <sub><b>CSS3</b></sub>
     </td>
+  </tr>
+</table>
+
+### 🧰 Ferramentas
+
+<table>
+  <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/><br>
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="BootStrap"/><br>
-      <sub><b>BootStrap</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/><br>
+      <sub><b>Bootstrap</b></sub>
     </td>
   </tr>
 </table>
 
-## Aprendendo:
+## 📚 Aprendendo
+
+### 🐧 Sistemas Operacionais
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🔌 Embarcados & IoT
+
 <table>
   <tr>
     <td align="center" width="120">
@@ -37,12 +60,8 @@
       <sub><b>Arduino</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="RaspBerryPi"/><br>
-      <sub><b>RaspBerryPi</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br>
-      <sub><b>Linux</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="Raspberry Pi"/><br>
+      <sub><b>Raspberry Pi</b></sub>
     </td>
   </tr>
 </table>
