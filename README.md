@@ -28,5 +28,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/><br>
       <sub><b>Arduino</b></sub>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberry/raspberry-original.svg" width="50" alt="RaspBerry"/><br>
+      <sub><b>RaspBerry</b></sub>
+    </td>
   </tr>
 </table>
