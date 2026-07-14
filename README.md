@@ -23,8 +23,8 @@
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Node"/><br>
-      <sub><b>Node.js</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="BootStrap"/><br>
+      <sub><b>BootStrap</b></sub>
     </td>
   </tr>
 </table>
