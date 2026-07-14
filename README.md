@@ -36,5 +36,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="RaspBerryPi"/><br>
       <sub><b>RaspBerryPi</b></sub>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br>
+      <sub><b>Linux</b></sub>
+    </td>
   </tr>
 </table>
