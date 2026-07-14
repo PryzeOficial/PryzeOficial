@@ -21,7 +21,6 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="CSS3"/><br>
       <sub><b>Arduino</b></sub>
-      
     </td>
   </tr>
 </table>
