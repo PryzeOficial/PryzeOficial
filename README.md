@@ -64,7 +64,7 @@
       <sub><b>Arduino</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="Raspberry Pi"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypipico/raspberrypipico-original.svg" width="50" alt="Raspberry Pi"/><br>
       <sub><b>Raspberry Pi</b></sub>
     </td>
   </tr>
