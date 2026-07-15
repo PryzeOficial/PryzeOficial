@@ -40,13 +40,17 @@
 
 ## 📚 Aprendendo
 
-### 🐧 Sistemas Operacionais
+### 🐧 OS's
 
 <table>
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br>
       <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="50" alt="LinuxMint"/><br>
+      <sub><b>Linux Mint</b></sub>
     </td>
   </tr>
 </table>
