@@ -35,6 +35,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/><br>
       <sub><b>Bootstrap</b></sub>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode"/><br>
+      <sub><b>VSCode</b></sub>
+    </td>
   </tr>
 </table>
 
